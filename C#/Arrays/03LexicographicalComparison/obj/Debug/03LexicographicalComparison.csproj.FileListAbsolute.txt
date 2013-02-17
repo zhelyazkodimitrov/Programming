@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\bin\Debug\03LexicographicalComparison.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\bin\Debug\03LexicographicalComparison.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\bin\Debug\03LexicographicalComparison.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\obj\Debug\03LexicographicalComparison.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\obj\Debug\03LexicographicalComparison.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\03LexicographicalComparison\obj\Debug\03LexicographicalComparison.pdb

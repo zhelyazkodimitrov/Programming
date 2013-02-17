@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\bin\Debug\02ComparingArrays.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\bin\Debug\02ComparingArrays.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\bin\Debug\02ComparingArrays.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\obj\Debug\02ComparingArrays.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\obj\Debug\02ComparingArrays.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\02ComparingArrays\obj\Debug\02ComparingArrays.pdb

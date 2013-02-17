@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\bin\Debug\12LetterIndex.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\bin\Debug\12LetterIndex.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\bin\Debug\12LetterIndex.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\obj\Debug\12LetterIndex.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\obj\Debug\12LetterIndex.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\12LetterIndex\obj\Debug\12LetterIndex.pdb

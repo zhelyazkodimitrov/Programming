@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\bin\Debug\11BinarySearch.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\bin\Debug\11BinarySearch.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\bin\Debug\11BinarySearch.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\obj\Debug\11BinarySearch.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\obj\Debug\11BinarySearch.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\11BinarySearch\obj\Debug\11BinarySearch.pdb

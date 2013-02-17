@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\bin\Debug\15SieveOfEratosthenes.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\bin\Debug\15SieveOfEratosthenes.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\bin\Debug\15SieveOfEratosthenes.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\obj\Debug\15SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\obj\Debug\15SieveOfEratosthenes.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\15SieveOfEratosthenes\obj\Debug\15SieveOfEratosthenes.pdb

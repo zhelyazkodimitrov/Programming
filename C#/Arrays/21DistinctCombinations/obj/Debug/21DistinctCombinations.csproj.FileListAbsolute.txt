@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\bin\Debug\21DistinctCombinations.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\bin\Debug\21DistinctCombinations.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\bin\Debug\21DistinctCombinations.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\obj\Debug\21DistinctCombinations.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\obj\Debug\21DistinctCombinations.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\21DistinctCombinations\obj\Debug\21DistinctCombinations.pdb

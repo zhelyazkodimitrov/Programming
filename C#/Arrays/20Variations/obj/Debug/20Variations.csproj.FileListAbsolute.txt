@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\bin\Debug\20Variations.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\bin\Debug\20Variations.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\bin\Debug\20Variations.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\obj\Debug\20Variations.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\obj\Debug\20Variations.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\20Variations\obj\Debug\20Variations.pdb

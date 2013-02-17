@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\bin\Debug\07SelectionSort.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\bin\Debug\07SelectionSort.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\bin\Debug\07SelectionSort.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\obj\Debug\07SelectionSort.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\obj\Debug\07SelectionSort.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\07SelectionSort\obj\Debug\07SelectionSort.pdb

@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\bin\Debug\10SequenceDesiredSum.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\bin\Debug\10SequenceDesiredSum.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\bin\Debug\10SequenceDesiredSum.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\obj\Debug\10SequenceDesiredSum.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\obj\Debug\10SequenceDesiredSum.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\10SequenceDesiredSum\obj\Debug\10SequenceDesiredSum.pdb

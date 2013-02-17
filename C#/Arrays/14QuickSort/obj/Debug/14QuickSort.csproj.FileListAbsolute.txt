@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\bin\Debug\14QuickSort.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\bin\Debug\14QuickSort.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\bin\Debug\14QuickSort.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\obj\Debug\14QuickSort.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\obj\Debug\14QuickSort.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\14QuickSort\obj\Debug\14QuickSort.pdb

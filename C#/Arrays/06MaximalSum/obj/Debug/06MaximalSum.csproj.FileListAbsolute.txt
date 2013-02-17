@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\bin\Debug\06MaximalSum.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\bin\Debug\06MaximalSum.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\bin\Debug\06MaximalSum.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\obj\Debug\06MaximalSum.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\obj\Debug\06MaximalSum.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\06MaximalSum\obj\Debug\06MaximalSum.pdb

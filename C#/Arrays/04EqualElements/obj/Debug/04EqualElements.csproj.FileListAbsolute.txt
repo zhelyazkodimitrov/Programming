@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\bin\Debug\04EqualElements.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\bin\Debug\04EqualElements.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\bin\Debug\04EqualElements.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\obj\Debug\04EqualElements.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\obj\Debug\04EqualElements.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\04EqualElements\obj\Debug\04EqualElements.pdb

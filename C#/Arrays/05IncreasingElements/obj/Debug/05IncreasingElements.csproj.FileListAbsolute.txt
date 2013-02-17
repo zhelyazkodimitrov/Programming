@@ -1,0 +1,5 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\05IncreasingElements\bin\Debug\05IncreasingElements.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\05IncreasingElements\bin\Debug\05IncreasingElements.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\05IncreasingElements\bin\Debug\05IncreasingElements.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\05IncreasingElements\obj\Debug\05IncreasingElements.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\05IncreasingElements\obj\Debug\05IncreasingElements.pdb

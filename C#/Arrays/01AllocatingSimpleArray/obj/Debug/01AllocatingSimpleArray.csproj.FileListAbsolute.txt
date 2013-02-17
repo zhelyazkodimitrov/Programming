@@ -1,0 +1,6 @@
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\bin\Debug\01AllocatingSimpleArray.exe.config
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\bin\Debug\01AllocatingSimpleArray.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\bin\Debug\01AllocatingSimpleArray.pdb
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\obj\Debug\01AllocatingSimpleArray.csprojResolveAssemblyReference.cache
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\obj\Debug\01AllocatingSimpleArray.exe
+F:\Homework&Practice\HW CSharp 2\Arrays\01AllocatingSimpleArray\obj\Debug\01AllocatingSimpleArray.pdb
